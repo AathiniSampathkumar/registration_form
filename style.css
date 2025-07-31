@@ -1,0 +1,28 @@
+.outer{
+    background-color: grey;
+    height: 720px;
+    width: 850px;
+    margin: auto;
+
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+.inner{
+    background-color: red;
+    height: 620px;
+    width: 800px;
+    margin: auto;
+    border: solid;
+    border-color: black ;
+    color: white;
+    
+}
+.button{
+    text-align: center;
+}
+.tab{
+    border:solid 5px;
+    border-color: black;
+}
